@@ -1,0 +1,25 @@
+{
+  "name": "buzz-rcp-fw-test",
+  "version": "1.0.0",
+  "description": "Test fw for RCP",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "copen": "cypress:open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugar97/buzz-rcp-fw-test.git"
+  },
+  "author": "mugar97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mugar97/buzz-rcp-fw-test/issues"
+  },
+  "homepage": "https://github.com/mugar97/buzz-rcp-fw-test#readme",
+  "devDependencies": {
+    "cypress": "^4.2.0",
+    "eslint-plugin-cypress": "^2.10.3",
+    "mocha": "^7.1.1"
+  }
+}

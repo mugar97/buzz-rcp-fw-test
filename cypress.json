@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://consumer.qa.buzznonprod.com/",
+  "env": {
+    "username": "bpqabuzzficp190923001@mailinator.com",
+    "password": "Colombia1*"
+  }
+}
